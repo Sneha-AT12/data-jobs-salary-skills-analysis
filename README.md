@@ -112,7 +112,7 @@ I split it so that <b>each skill gets its own row</b>.
 </ol>
 
 <p align="center">
-  <img src="images/1_power_query_skills.png" width="800" alt="Power Query steps for the job skills table">
+  <img src="https://github.com/Sneha-AT12/data-jobs-salary-skills-analysis/blob/88cd65a763e55dbfe82db0554e44c70ea062bef0/1_power_query_skills.png" width="800" alt="Power Query steps for the job skills table">
 </p>
 <p align="center"><i>Power Query: one row per job and skill (for example SQL, Python, AWS for job 10001).</i></p>
 
