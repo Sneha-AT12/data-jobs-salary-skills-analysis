@@ -193,7 +193,7 @@ and the <b>skill likelihood</b>, the share of postings that mention it (markers)
 </p>
 
 <p align="center">
-  <img src="images/5_top_skills.png" width="750" alt="Top skills: median salary and skill likelihood">
+  <img src="https://github.com/Sneha-AT12/data-jobs-salary-skills-analysis/blob/92099e9d29d77cd6065449eebd75753993bdbcf4/5_top_skills.png" width="750" alt="Top skills: median salary and skill likelihood">
 </p>
 <p align="center"><i>Bars: median salary for the skill. Markers: how often the skill appears in postings.</i></p>
 
