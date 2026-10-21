@@ -169,7 +169,7 @@ then plotted them against each other with a trendline.
 </p>
 
 <p align="center">
-  <img src="images/4_salary_vs_skills.png" width="750" alt="Scatter plot: do more skills get you better pay?">
+  <img src="https://github.com/Sneha-AT12/data-jobs-salary-skills-analysis/blob/f24cc516ddaf711666e719e226ce7fec6bbbc6bd/4_salary_vs_skills.png" width="750" alt="Scatter plot: do more skills get you better pay?">
 </p>
 <p align="center"><i>Each dot is a job title. The dotted line is the trend.</i></p>
 
