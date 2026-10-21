@@ -145,7 +145,7 @@ I built a PivotTable with the <b>median salary</b> for each job title and split 
 </p>
 
 <p align="center">
-  <img src="images/3_median_salary_india.png" width="650" alt="Median salary by job title: overall, India and non-India">
+  <img src="https://github.com/Sneha-AT12/data-jobs-salary-skills-analysis/blob/5c34ebde044cf71579247b27cf1223698b0e251a/3_median_salary_india.png" width="650" alt="Median salary by job title: overall, India and non-India">
 </p>
 <p align="center"><i>Median salary by job title: overall, India and Non-India.</i></p>
 
